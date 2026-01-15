@@ -26,13 +26,13 @@ Perfect for beginners or for making small, meaningful commits when you're not fe
 Here are the screenshots of the project UI:
 
 ### 🖼️ Screenshot 1 – Initial State
-![Screenshot 1](./Screenshot 1.png)
+![Screenshot 1](./Screenshot_1.png)
 
 ### 🖼️ Screenshot 2 – Updated Status Example
-![Screenshot 2](./Screenshot 2.png)
+![Screenshot 2](./Screenshot_2.png)
 
 ### 🖼️ Screenshot 3 – Another Status Example
-![Screenshot 3](./Screenshot 3.png)
+![Screenshot 3](./Screenshot_3.png)
 ---
 
 ## 🧠 How It Works
